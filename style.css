@@ -1,0 +1,28 @@
+/* Reset basic spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Page background */
+body {
+  background-color: #eef6ff; /* soft different background */
+  color: #222;
+  padding: 30px;
+}
+
+/* All headings light blue */
+h1, h2, h3 {
+  color: #4da6ff; /* light blue */
+  margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+p {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+/
